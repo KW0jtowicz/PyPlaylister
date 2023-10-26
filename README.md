@@ -12,3 +12,4 @@ The default save path for downloaded files is a Windows syntax one, just change 
 Just run the script in cmd or terminal and follow the on-screen instructions.
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKW0jtowicz%2FPyPlaylister&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
